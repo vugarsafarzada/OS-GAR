@@ -1,5 +1,5 @@
 # CREATED BY: Vugar Safarzada
-# ------ 22/06/2020 ------
+# ------ 22/06/2020 ---------
 
 from os import *
 import time
